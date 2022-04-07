@@ -1,0 +1,14 @@
+----------------------------------------------------
+make the contribution range for each model so that it doesn't change when another model is added
+cross icon clicked remove on all - if crossed how you want to get it back
+handle the select features when circles are clicked - exclude clicked circles that falls outside of the selected range
+
+-------------
+Remove all special characters from the featureName
+
+------Ask professor
+clear all clicked circles
+
+------Discuss later
+Cross icon when clicked- 
+Model precision on the legend- 
